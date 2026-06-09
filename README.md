@@ -136,7 +136,7 @@ jupyter notebook
 Open:
 
 ```
-multiple_regression_analysis.ipynb
+multiple_reg_analysis.ipynb
 ```
 
 ---
